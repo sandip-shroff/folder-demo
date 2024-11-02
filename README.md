@@ -1,5 +1,5 @@
 # folder-demo
 This is my first Git Repository, 
 <br>
-Author - Sandip Kumar <br>
+Author - pradip Kumar <br>
 <p> hello dear </p>
